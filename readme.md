@@ -139,8 +139,8 @@ Este  proyecto es interesante porque ...
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
+
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2020
+Junio 2021
