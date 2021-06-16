@@ -44,9 +44,13 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.1 Storyboard: 
 
+Al iniciar el proyecto aparece una pantalla que aconseja jugar haciendo uso de cascos o auriculares para una experiencia más óptima. Tras esta, comienza a reproducirse una introducción a la historia del juego la cual tiene la opción de poder saltarla. Después se llega al menú, donde se encuentran principalmente tres opciones y una cuarta, cuyo icono es una nota musical, donde se puede modificar los volúmenes de los distintos tipos de sonido que se van a reproducir durante el proyecto.
 
+- ¿Quién eres?: Es la opción principal. Al clicar sobre ella se inicia el juego reproduciendo una pequeña introducción a la situación del personaje principal. Luego, se comienza a jugar pudiendo manejar al personaje principal a través de las distintas pantallas del nivel en busca y recolección de pequeños fragmentos de fotografías que, al coleccionarlos todos, revelan una imagen a partir de la cual el protagonista avanza en su historia. Una vez concluido, se reproducen los créditos del juego.
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+- Galería: En esta opción se accede a la galería del juego la cual ahúna imágenes del elenco de seres que componen el lore de la historia del juego. Consta de cuatro siendo estos los principales en la historia y las imágenes van acompañadas de una breve explicación del rol de cada uno dentro de su mundo.
+
+- Créditos: Al pulsar esta opción se direcciona al jugador a la pantalla de créditos con la posibilidad de volver al menú principal.
 
 
 
