@@ -76,20 +76,20 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+- Cube Escape Series (juegos de puzzles) http://www.cubeescape.com/ (inspiración principal para trabajar sobre la jugabilidad y género del juego)
+- Limbo (juego de plataformas) https://store.steampowered.com/app/48000/LIMBO/?l=spanish (inspiración para trabajar en la propuesta visual del juego)
 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Cuando en la asignatura se propuso la idea de realizar un gran proyecto en el cual ir avanzando a lo largo del curso, no estaba seguro de qué buscaba hacer, simplemente quería contar una historia. Esa fue mi principal motivación y la opción tomada sobre la cual acabé valorando la posiblidad de diversos formatos. Sí que quería hacer un juego, solo que por aquel entonces desconocía qué 
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a personas interesadas en juegos de puzzles mayores de 18 años, dado el contenido algo perturbador que dentro del juego puede desvelarse.
 
 
 
@@ -131,14 +131,16 @@ Este  proyecto es interesante porque ...
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica: Space white noise sound no copyright, Button free use sound & Piano by Juan José Gutiérrez Calvo
+* Imágenes: Juan José Gutiérrez Calvo
+* Tipografía: Times New Roman, Sans Seriff, Arial y Agency FB
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- DaVinci Resolve
+- Paint Tool SAI
+- Photoshop CS6
 
 
 
