@@ -83,7 +83,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Cuando en la asignatura se propuso la idea de realizar un gran proyecto en el cual ir avanzando a lo largo del curso, no estaba seguro de qué buscaba hacer, simplemente quería contar una historia. Esa fue mi principal motivación y la opción tomada sobre la cual acabé valorando la posiblidad de diversos formatos. Sí que quería hacer un juego, solo que por aquel entonces desconocía qué funciones me ofrecía Hippani para poder desarrollarlo. Con el avance del tiempo y al ir descubriendo formas de programar según qué mecánicas fui poco a poco desarrollando el proyecto y dando forma a la jugabilidad. Luego, quería que la narrativa fuese tríptica con una historia que se fuese desgranando poco a poco e impactando al jugador a medida que avanzase.
+Cuando en la asignatura se propuso la idea de realizar un gran proyecto en el cual ir avanzando a lo largo del curso, no estaba seguro de qué buscaba hacer, simplemente quería contar una historia. Esa fue mi principal motivación y la opción tomada sobre la cual acabé valorando la posiblidad de diversos formatos. Sí que quería hacer un juego, solo que por aquel entonces desconocía qué funciones me ofrecía Hippani para poder desarrollarlo. Con el avance del tiempo y al ir descubriendo formas de programar según qué mecánicas fui poco a poco desarrollando el proyecto y dando forma a la jugabilidad. Luego, quería que la narrativa fuese tríptica con una historia que se fuese desgranando poco a poco e impactando al jugador a medida que avanzase porque desde siempre me han motivado mucho ese tipo de estrategias narrativas en todo tipo de medios, tanto 
 
 
 
