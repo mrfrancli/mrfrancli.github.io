@@ -35,8 +35,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Medios** (donde se tiene presencia relacionada):
 
 - Github: https://github.com/mrfrancli/mrfrancli.github.io
-- Twitter:
-- Instagram: 
+- Twitter: https://twitter.com/mrfrancli
+- Instagram: https://www.instagram.com/mrfrancli/
 
 
 ![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
