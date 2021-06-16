@@ -18,9 +18,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Juego drag & drop
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
-
-(insertar imágenes a resolucion de 100px alto)
+**Logotipo** : 
+![girl](https://github.com/mrfrancli/mrfrancli.github.io/blob/master/logo.png)
 
 **Resolución:** 800x600px (no reescalable puesto que algunos elementos perderían excesiva calidad)
 
@@ -39,7 +38,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Instagram: https://www.instagram.com/mrfrancli/
 
 
-![girl](https://github.com/mrfrancli/mrfrancli.github.io/blob/master/logo.png)
+
 
 # 2. Memoria del proyecto 
 
