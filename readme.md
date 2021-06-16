@@ -83,7 +83,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Cuando en la asignatura se propuso la idea de realizar un gran proyecto en el cual ir avanzando a lo largo del curso, no estaba seguro de qué buscaba hacer, simplemente quería contar una historia. Esa fue mi principal motivación y la opción tomada sobre la cual acabé valorando la posiblidad de diversos formatos. Sí que quería hacer un juego, solo que por aquel entonces desconocía qué 
+Cuando en la asignatura se propuso la idea de realizar un gran proyecto en el cual ir avanzando a lo largo del curso, no estaba seguro de qué buscaba hacer, simplemente quería contar una historia. Esa fue mi principal motivación y la opción tomada sobre la cual acabé valorando la posiblidad de diversos formatos. Sí que quería hacer un juego, solo que por aquel entonces desconocía qué funciones me ofrecía Hippani para poder desarrollarlo. Con el avance del tiempo y al ir descubriendo formas de programar según qué mecánicas fui poco a poco desarrollando el proyecto y dando forma a la jugabilidad. Luego, quería que la narrativa fuese tríptica con una historia que se fuese desgranando poco a poco e impactando al jugador a medida que avanzase.
 
 
 
@@ -125,13 +125,13 @@ Cuando en la asignatura se propuso la idea de realizar un gran proyecto en el cu
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
+**Artículos y blogs** 
 
 - Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
 
-* Musica: Space white noise sound no copyright, Button free use sound & Piano by Juan José Gutiérrez Calvo
+* Música: Space white noise sound no copyright, Button free use sound & Piano by Juan José Gutiérrez Calvo
 * Imágenes: Juan José Gutiérrez Calvo
 * Tipografía: Times New Roman, Sans Seriff, Arial y Agency FB
 
