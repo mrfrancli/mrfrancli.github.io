@@ -39,7 +39,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Instagram: https://www.instagram.com/mrfrancli/
 
 
-![girl](https://github.com/mgea/mrfrancli.github.io/logo.png/)
+![girl](https://github.com/mrfrancli/mrfrancli.github.io/blob/master/logo.png)
 
 # 2. Memoria del proyecto 
 
