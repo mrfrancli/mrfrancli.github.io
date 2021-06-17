@@ -21,7 +21,7 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 **Estilo/género:**  Juego de puzzles
 
 **Logotipo:** 
-![logo](https://github.com/mrfrancli/mrfrancli.github.io/blob/master/logo.png)
+![logo]()
 
 **Resolución:** 800x600px (no reescalable puesto que algunos elementos perderían excesiva calidad)
 
