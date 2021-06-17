@@ -17,6 +17,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Resumen** : *¿Quién eres?* es un juego de puzzles donde al avanzar por distintos niveles recolectando trozos de fotografía Marcial, el protagonista de la historia, va descubriendo quién es. Marcial es una persona que no sabe quién es, qué ha ocurrido o dónde está. A través de la recomposición de fotografías, Marcial va recordando su identidad y desgranando poco a poco la historia de aquello que lo condenó a la eternidad. 
 
 ***Este juego sólo es una demo de prueba y únicamente contiene el nivel introductorio. En la página web oficial podrá adquirir la*** **Edición DELUXE Sacramentos de la Iniquidad** ***por 19,99$ y disfrutar de todo el contenido del juego más extras adicionales.***
+
 **Estilo/género:**  Juego de puzzles
 
 **Logotipo** : 
