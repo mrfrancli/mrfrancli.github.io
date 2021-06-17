@@ -14,9 +14,10 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Juan José Gutiérrez Calvo
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : *¿Quién eres?* es un juego de puzzles donde al avanzar por distintos niveles recolectando trozos de fotografía Marcial, el protagonista de la historia, va descubriendo quién es. Marcial es una persona que no sabe quién es, qué ha ocurrido o dónde está. A través de la recomposición de fotografías, Marcial va recordando su identidad y desgranando poco a poco la historia de aquello que lo condenó a la eternidad. 
 
-**Estilo/género:**  Juego drag & drop
+***Este juego sólo es una demo de prueba y únicamente contiene el nivel introductorio. En la página web oficial podrá adquirir la*** **Edición DELUXE Sacramentos de la Iniquidad** ***por 19,99$ y disfrutar de todo el contenido del juego más extras adicionales.***
+**Estilo/género:**  Juego de puzzles
 
 **Logotipo** : 
 ![girl](https://github.com/mrfrancli/mrfrancli.github.io/blob/master/logo.png)
@@ -46,11 +47,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 Al iniciar el proyecto aparece una pantalla que aconseja jugar haciendo uso de cascos o auriculares para una experiencia más óptima. Tras esta, comienza a reproducirse una introducción a la historia del juego la cual tiene la opción de poder saltarla. Después se llega al menú, donde se encuentran principalmente tres opciones y una cuarta, cuyo icono es una nota musical, donde se puede modificar los volúmenes de los distintos tipos de sonido que se van a reproducir durante el proyecto.
 
-- ¿Quién eres?: Es la opción principal. Al clicar sobre ella se inicia el juego reproduciendo una pequeña introducción a la situación del personaje principal. Luego, se comienza a jugar pudiendo manejar al personaje principal a través de las distintas pantallas del nivel en busca y recolección de pequeños fragmentos de fotografías que, al coleccionarlos todos, revelan una imagen a partir de la cual el protagonista avanza en su historia. Una vez concluido, se reproducen los créditos del juego.
+- **¿Quién eres?:** Es la opción principal. Al clicar sobre ella se inicia el juego reproduciendo una pequeña introducción a la situación del personaje principal. Luego, se comienza a jugar pudiendo manejar al personaje principal a través de las distintas pantallas del nivel en busca y recolección de pequeños fragmentos de fotografías que, al coleccionarlos todos, revelan una imagen a partir de la cual el protagonista avanza en su historia. Una vez concluido, se reproducen los créditos del juego.
 
-- Galería: En esta opción se accede a la galería del juego la cual ahúna imágenes del elenco de seres que componen el lore de la historia del juego. Consta de cuatro siendo estos los principales en la historia y las imágenes van acompañadas de una breve explicación del rol de cada uno dentro de su mundo.
+- **Galería:** En esta opción se accede a la galería del juego la cual ahúna imágenes del elenco de seres que componen el lore de la historia del juego. Consta de cuatro siendo estos los principales en la historia y las imágenes van acompañadas de una breve explicación del rol de cada uno dentro de su mundo.
 
-- Créditos: Al pulsar esta opción se direcciona al jugador a la pantalla de créditos con la posibilidad de volver al menú principal.
+- **Créditos:** Al pulsar esta opción se direcciona al jugador a la pantalla de créditos con la posibilidad de volver al menú principal.
 
 
 
@@ -77,17 +78,21 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
 - Cube Escape Series (juegos de puzzles) http://www.cubeescape.com/ (inspiración principal para trabajar sobre la jugabilidad y género del juego)
+
 - Limbo (juego de plataformas) https://store.steampowered.com/app/48000/LIMBO/?l=spanish (inspiración para trabajar en la propuesta visual del juego)
+
+- Neon Genesis Evangelion (serie de animación) https://www.netflix.com/es/title/81033445 (inspiración principal para el diseño de inicuos y la creación de lore en la historia)
+
 
 
 
 **Motivación de la propuesta** 
 
-Cuando en la asignatura se propuso la idea de realizar un gran proyecto en el cual ir avanzando a lo largo del curso, no estaba seguro de qué buscaba hacer, simplemente quería contar una historia. Esa fue mi principal motivación y la opción tomada sobre la cual acabé valorando la posiblidad de diversos formatos. Sí que quería hacer un juego, solo que por aquel entonces desconocía qué funciones me ofrecía Hippani para poder desarrollarlo. Con el avance del tiempo y al ir descubriendo formas de programar según qué mecánicas fui poco a poco desarrollando el proyecto y dando forma a la jugabilidad. Luego, quería que la narrativa fuese tríptica con una historia que se fuese desgranando poco a poco e impactando al jugador a medida que avanzase porque desde siempre me han motivado mucho ese tipo de estrategias narrativas en todo tipo de medios, tanto 
+Cuando en la asignatura se propuso la idea de realizar un gran proyecto en el cual ir avanzando a lo largo del curso, no estaba seguro de qué buscaba hacer, simplemente quería contar una historia. Esa fue mi principal motivación y la opción tomada sobre la cual acabé valorando la posiblidad de diversos formatos. Sí que quería hacer un juego, solo que por aquel entonces desconocía qué funciones me ofrecía Hippani para poder desarrollarlo. Con el avance del tiempo y al ir descubriendo formas de programar según qué mecánicas fui poco a poco desarrollando el proyecto y dando forma a la jugabilidad. Luego, quería que la narrativa fuese tríptica con una historia que se fuese desgranando poco a poco e impactando al jugador a medida que avanzase porque desde siempre me han motivado mucho ese tipo de estrategias narrativas en todo tipo de medios, tanto audiovisuales e interactivos como más tradicionales y analógicos. Supongo que la razón de las decisiones tomadas no es más que una lista de procederes que he visto aplicados en otros sitios y que han tenido cierto impacto en mí, desde la narrativa hasta el diseño pasando por la jugabilidad.
 
 
 
-**Publico / audiencia**
+**Público / audiencia**
 
 - Orientado a personas interesadas en juegos de puzzles mayores de 18 años, dado el contenido algo perturbador que dentro del juego puede desvelarse.
 
