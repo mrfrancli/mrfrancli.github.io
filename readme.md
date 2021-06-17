@@ -16,12 +16,12 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resumen** : *¿Quién eres?* es un juego de puzzles donde al avanzar por distintos niveles recolectando trozos de fotografía Marcial, el protagonista de la historia, va descubriendo quién es. Marcial es una persona que no sabe quién es, qué ha ocurrido o dónde está. A través de la recomposición de fotografías, Marcial va recordando su identidad y desgranando poco a poco la historia de aquello que lo condenó a la eternidad. 
 
-***Este juego sólo es una demo de prueba y únicamente contiene el nivel introductorio. En la página web oficial podrá adquirir la*** **Edición DELUXE Sacramentos de la Iniquidad** ***por 19,99$ y disfrutar de todo el contenido del juego más extras adicionales.***
+***Este juego sólo es una demo de prueba y únicamente contiene el nivel introductorio. En la página web oficial podrá adquirir el juego completo por 14,99$ así como la*** **Edición DELUXE Sacramentos de la Iniquidad** ***por 19,99$ y disfrutar de todo el contenido más extras adicionales.***
 
 **Estilo/género:**  Juego de puzzles
 
 **Logotipo** : 
-![girl](https://github.com/mrfrancli/mrfrancli.github.io/blob/master/logo.png)
+![logo](https://github.com/mrfrancli/mrfrancli.github.io/blob/master/logo.png)
 
 **Resolución:** 800x600px (no reescalable puesto que algunos elementos perderían excesiva calidad)
 
@@ -115,13 +115,13 @@ Cuando en la asignatura se propuso la idea de realizar un gran proyecto en el cu
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Diría que los problemas identificados, en calidad técnica, los he solventado de forma bastante óptima. De hecho, diría que el mayor problema que el juego tiene es el ser demasiado corto puesto que, aunque creo que he realizado un proyecto consistente y bien programado, narrativamente se me ha quedado algo corto y me genera cierta rabia cuando la historia fue en lo primero que trabajé. No haber podido hacer un producto acabado 100% creo que ha sido mi mayor problema. De nuevo, recalcar que creo que he solventado muy bien otros tantos y que, aunque abierto, el acabado final lo considero bastante bueno para el tiempo del que hemos dispuesto.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+La programación siempre me ha llamado la atención aunque nunca antes había entrado en contacto con ella y menos para realizar las mecánicas de un juego. Para ser la primera vez que me aventuro en algo así y para la forma un tanto tosca en la que a veces funciona el programa usado considero que ha quedado un trabajo más que decente. Me encantaría poder ampliarlo por mi cuenta, acabar contando la historia que quería, pero no sé si el programa soportará según qué cosas y creo que existen alternativas mejores para lo que busco. Como valoración final considero que mi proyecto rebosa de aquello que se ha requerido y está realmente cuidado.
 
 
 
