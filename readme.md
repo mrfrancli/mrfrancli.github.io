@@ -58,9 +58,7 @@ Al iniciar el proyecto aparece una pantalla que aconseja jugar haciendo uso de c
 
 ### 2.2. Esquema de navegación 
 
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+![storyboard](https://github.com/mrfrancli/mrfrancli.github.io/blob/master/storybory.jpg)
 
 
 
