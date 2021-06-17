@@ -8,7 +8,7 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 
 
 
-**Titulo:** ¿Quién eres?
+**Título:** ¿Quién eres?
 
 **Web:** https://mrfrancli.github.io/
 
