@@ -4,7 +4,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-# 1 Datos 
+# 1. Datos 
 
 
 
@@ -44,7 +44,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 2. Memoria del proyecto 
 
-### 2.1 Storyboard: 
+### 2.1. Storyboard: 
 
 Al iniciar el proyecto aparece una pantalla que aconseja jugar haciendo uso de cascos o auriculares para una experiencia más óptima. Tras esta, comienza a reproducirse una introducción a la historia del juego la cual tiene la opción de poder saltarla. Después se llega al menú, donde se encuentran principalmente tres opciones y una cuarta, cuyo icono es una nota musical, donde se puede modificar los volúmenes de los distintos tipos de sonido que se van a reproducir durante el proyecto.
 
@@ -129,7 +129,7 @@ La programación siempre me ha llamado la atención aunque nunca antes había en
 
 
 
-# 5 Referencias 
+# 5. Referencias 
 
 **Artículos y blogs** 
 
