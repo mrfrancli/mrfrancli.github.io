@@ -97,9 +97,7 @@ Cuando en la asignatura se propuso la idea de realizar un gran proyecto en el cu
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
-- Juego. 
+- Juego. Programar y adecuar las mecánicas del juego fue sin duda la parte que mayor trabajo me supuso de todo el proyecto. Lo primero que hice fue que el personaje se moviese y, aunque conseguirlo no era del todo difícil, lo realmente duro se convirtió en adecuarlo a la estructura de nivel del juego. Quise que los niveles estuviesen compuestos de diferentes pantallas puesto que, como no sabía exactamente qué jugabilidad quería que tuviese en aquel momento, necesitaba que se dispusieran así principalmente para que la función del personaje principal desplazándose tuviese un propósito mecánico. Esto dificultó en parte los procesos porque tuve que establecer una variable que detectase en qué pantalla del nivel estaría el jugador y en función de eso llevarlo a la siguiente, a la anterior o no poder avanzar en caso de no haber más recorrido en adelante o hacia detrás. Cuando ya decidí que el juego contuviese la mecánica de drag and drop tuve que programarla y tener en cuenta que por el movimiento que se le permitía realizar al jugador, los trozos de fotografía a coleccionar debían desaparecer del todo una vez recogidos y, en caso de no haberlos guardado, volver a aparecer al estar de vuelta en un escenario y desaparecer momentáneamente en caso de avanzar a otro. Para esto me serví una vez más de variables y de scripts de fotograma para sincronizarlas con el juego y así poder cumplir con los requerimientos para que todo funcionase correctamente.
 - Video 
 - Instrucciones y ayuda al usuario 
 - Menús y elementos de navegación (botones)
